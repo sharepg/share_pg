@@ -9,4 +9,4 @@
 
 *github账号密码：pg09403*
 
-（Here, pg means <font color="#ff0000">**p**</font>ost<font color="red">**g**</font>raduate）
+（Here, pg means **p**ost~~g~~raduate）
